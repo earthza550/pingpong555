@@ -1,0 +1,17 @@
+{
+  "name": "pingpong888",
+  "theme": "syntax",
+  "version": "1.0.3",
+  "description": "หวยปิงปอง ( จับยี่กี )  วิธี ซื้อหวยปิงปอง กับความันส์แบบจัดเต็ม 88 รอบต่อวัน",
+  "keywords": [
+    "หวยปิงปอง",
+    "จับยี่กี",
+    "ซื้อหวยปิงปอง",
+    "วิธีซื้อหวยปิงปอง"
+  ],
+  "repository": "https://github.com/earthza550/pingpong555",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
